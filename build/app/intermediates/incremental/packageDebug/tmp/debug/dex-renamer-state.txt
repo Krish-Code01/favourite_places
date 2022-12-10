@@ -1,4 +1,4 @@
-#Sat Jul 30 21:39:14 IST 2022
-base.0=/Users/krishnarajput/Documents/development/my_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Wed Sep 21 18:36:58 IST 2022
+base.0=/Users/krishnarajput/Documents/development/dear_diary/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
